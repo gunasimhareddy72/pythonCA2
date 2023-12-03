@@ -48,6 +48,14 @@ by calling delete doctor API service. Also showing modal with selected doctor de
 API to get the list of patients on load of page, Showing modal with selected doctor details populated on input field. User can update this values as required and clicking on save, it call update doctors API service with updated data. Showing modal if user clicks on delete patient button and deleting the selected patient by calling delete patient API service. 
 * Responsible for adding Vendor CSS like bootstrap and also adding custom CSS styling for the application.
 
+#### Guna Simha Reddy (10628714) 
+* Responsible for creating app.py, initial application structure and configuring all the required dependecies. 
+* Created Appointments page HTML view. It includes displaying table to show the appointment details, Modal view to display the selected appointment data and modal when user clicks on delete appointment. 
+* Created required javascript functions that are required for user interaction with appointment page. It includes calling an API to get the list of appointment on page load, Showing modal if user clicks on delete appointment button and deleting the selected appointment by calling delete appointment API service. Also showing modal with selected appointment details populated on input field. User can update this values as required and clicking on save, it call update appointment API service with updated data. 
+* Created initial database structure, tables and added database file. 
+* Added setup.py file to do the application setup. 
+* Added third party javascript libraries like Jquery, moment JS etc to handle user interactions and different functionalities that are required.
+
 #### vajja mahendra (10639742)
 * Responsible for creating GET service for home page whih returns the count of patient doctors and appointments.
 * Created all the API services required for appointment module. This includes GET Appointment service to display list of all appointments, POST Appointment service to register the new appointment and PUT Appointment service to update the appointment data. 
