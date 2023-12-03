@@ -38,7 +38,17 @@ Below link will open the Postman collection to try the services that this applic
 
 ## Responsibility of each individual contributor
 
-##### vajja mahendra (10639742)
+#### Neelam Premkumar (20000202)
+* Responsible for creating initial schemas for the doctors, patient and appointment table. 
+* Created all the API services required for patient module. This includes GET patient service to display list of all patients, POST patient service to register the patient and PUT patient service to update the patient data. 
+* Created required javascript functions that are required for user interaction with doctors page. It includes calling an 
+API to get the list of doctors, Showing modal if user clicks on delete doctor button and deleting the selected doctors 
+by calling delete doctor API service. Also showing modal with selected doctor details populated on input field. User can update this values as required and clicking on save, it call update doctors API service with updated data. 
+* Responsible for handling user interaction using javascript for patients page. It includes calling an 
+API to get the list of patients on load of page, Showing modal with selected doctor details populated on input field. User can update this values as required and clicking on save, it call update doctors API service with updated data. Showing modal if user clicks on delete patient button and deleting the selected patient by calling delete patient API service. 
+* Responsible for adding Vendor CSS like bootstrap and also adding custom CSS styling for the application.
+
+#### vajja mahendra (10639742)
 * Responsible for creating GET service for home page whih returns the count of patient doctors and appointments.
 * Created all the API services required for appointment module. This includes GET Appointment service to display list of all appointments, POST Appointment service to register the new appointment and PUT Appointment service to update the appointment data. 
 * Created all the API services required for patient module. This includes GET patient service to display list of all patients, POST patient service to register the patient and PUT patient service to update the patient data. 
