@@ -70,7 +70,7 @@ API to get the count of doctors, patient and appointments. Also includes navigat
 
 ## screenshot
 
-<a href="../../" target="_blank"><img src="https://raw.githubusercontent.com/tushariscoolster/HospitalManagementSystem/master/1.png" height="300"></a>
+<a href="../../" target="_blank"><img src="appointments page screenshot.jpg" height="300"></a>
 <a href="../../" target="_blank"><img src="https://raw.githubusercontent.com/tushariscoolster/HospitalManagementSystem/master/2.png" height="300"></a>
 <a href="../../" target="_blank"><img src="https://raw.githubusercontent.com/tushariscoolster/HospitalManagementSystem/master/3.png" height="300"></a>
 <a href="../../" target="_blank"><img src="https://raw.githubusercontent.com/tushariscoolster/HospitalManagementSystem/master/4.png" height="300"></a>
